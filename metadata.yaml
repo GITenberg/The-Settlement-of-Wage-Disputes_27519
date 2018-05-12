@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '32739'
     url: http://www.gutenberg.org/2009/agents/32739
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27519#The-Settlement-of-Wage-Disputes
 gutenberg_issued: '2008-12-13'
 gutenberg_type: Text
 identifiers:
