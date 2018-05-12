@@ -1,0 +1,28 @@
+_repo: The-Settlement-of-Wage-Disputes_27519
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Feis, Herbert
+    birthdate: 1893
+    deathdate: 1972
+    gutenberg_agent_id: '32739'
+    url: http://www.gutenberg.org/2009/agents/32739
+description: ''
+gutenberg_issued: '2008-12-13'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27519'
+  lccn: '21016761'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economics'
+- !lcsh 'Wages -- United States'
+- !lcc 'HD'
+title: The Settlement of Wage Disputes
+url: http://www.gutenberg.org/ebooks/27519
